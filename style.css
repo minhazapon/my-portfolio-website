@@ -12,6 +12,7 @@ nav{
    display: flex;
    justify-content: space-between;
     align-items: center;
+    margin: 0 100px;
 
 
 }
@@ -64,6 +65,23 @@ nav a {
       font-weight: bold;
       padding: 5px 15px;
 
+
+
+}
+
+
+
+.header{
+         background-color: white;
+ 
+
+
+}
+
+.banner{
+
+   padding: 30px 30px 30px 150px;
+   display: flex;
 
 
 }
