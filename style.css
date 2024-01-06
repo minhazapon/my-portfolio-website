@@ -119,3 +119,63 @@ nav a {
 
 }
 
+#what{
+       text-align: center;
+       padding: 30px 150px;
+       
+
+
+}
+
+.skils-c{
+       display: flex;
+       gap: 24px;
+       background-color: darkturquoise;
+       justify-content: center;
+       
+
+       
+
+
+}
+
+.skills{
+    padding: 30px;
+ 
+    text-align: center;
+    border-radius: 5px;
+
+    box-shadow: 0px 6px 50px 0px;
+
+
+}
+
+.Resume{
+         text-align: center;
+
+
+}
+
+.resume-container{
+           display: flex;
+           gap: 30px;
+           justify-content: center;
+
+
+
+}
+
+.but2{
+     text-align: center;
+  
+
+
+}
+
+.bu{
+     color: rgb(0, 193, 252);
+     background-color: blueviolet;
+
+
+
+}
