@@ -179,3 +179,15 @@ nav a {
 
 
 }
+
+.foot{
+      display: flex;
+      gap: 200px;
+      justify-content: center;
+      padding: 100px 200px;
+      background-color: rgb(214, 181, 245);
+      margin-top: 100px;
+
+
+
+}
